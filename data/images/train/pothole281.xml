@@ -1,0 +1,26 @@
+<annotation>
+	<folder>partii</folder>
+	<filename>pothole281.jpg</filename>
+	<path>/home/amenor/seniorProject/potholedatasets/potholedatasetCompressed-1.21.21/train/partii/pothole281.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pothole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>370</ymin>
+			<xmax>199</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

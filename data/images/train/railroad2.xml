@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>railroad2.jpg</filename>
+	<path>/home/amenor/seniorProject/trafficsigndatasets/railroad/Compressed-2.6.21/train/railroad2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>railroad sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>468</xmin>
+			<ymin>83</ymin>
+			<xmax>546</xmax>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+</annotation>

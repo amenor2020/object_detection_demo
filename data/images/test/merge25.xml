@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>merge25.jpg</filename>
+	<path>/home/amenor/seniorProject/trafficsigndatasets/merge/Compressed-2.6.21/train/merge25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>merge sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>590</xmin>
+			<ymin>110</ymin>
+			<xmax>726</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>

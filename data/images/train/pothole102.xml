@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>pothole102.jpg</filename>
+	<path>/home/amenor/seniorProject/potholedatasets/potholedatasetCompressed-1.21.21/train/pothole102.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pothole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>486</xmin>
+			<ymin>262</ymin>
+			<xmax>610</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>

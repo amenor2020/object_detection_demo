@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>railroad3.jpg</filename>
+	<path>/home/amenor/seniorProject/trafficsigndatasets/railroad/Compressed-2.6.21/train/railroad3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>railroad sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>481</xmin>
+			<ymin>145</ymin>
+			<xmax>530</xmax>
+			<ymax>188</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>speed limit sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>380</xmin>
+			<ymin>187</ymin>
+			<xmax>406</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+</annotation>

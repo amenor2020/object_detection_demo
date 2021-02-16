@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>streetlight9.jpg</filename>
+	<path>/home/amenor/seniorProject/trafficsigndatasets/streetlight/Compressed-2.6.21/train/streetlight9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>street light sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>456</xmin>
+			<ymin>133</ymin>
+			<xmax>503</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>
