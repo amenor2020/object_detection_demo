@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
-	<filename>streetlight7.jpg</filename>
-	<path>/home/amenor/seniorProject/trafficsigndatasets/streetlight/Compressed-2.6.21/train/streetlight7.jpg</path>
+	<filename>trafficsignal30.jpg</filename>
+	<path>/home/amenor/seniorProject/trafficsigndatasets/traffic signal/Compressed-2.25.21/train/trafficsignal30.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>street light sign</name>
+		<name>traffic signal sign</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>656</xmin>
-			<ymin>107</ymin>
-			<xmax>753</xmax>
-			<ymax>208</ymax>
+			<xmin>312</xmin>
+			<ymin>133</ymin>
+			<xmax>539</xmax>
+			<ymax>351</ymax>
 		</bndbox>
 	</object>
 </annotation>

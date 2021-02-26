@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>trafficsignal15.jpg</filename>
+	<path>/home/amenor/seniorProject/trafficsigndatasets/traffic signal/Compressed-2.25.21/train/trafficsignal15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>traffic signal sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>486</xmin>
+			<ymin>149</ymin>
+			<xmax>626</xmax>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+</annotation>
